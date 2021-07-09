@@ -16,5 +16,5 @@ h4 {
 body {
 background-image: url("https://wiseengine.netlify.app/cdn/background.png");
  background-color: #cccccc;
-  repeat: no-repeat;
+  background-repeat: no-repeat;
 }
