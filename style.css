@@ -13,7 +13,7 @@ h3 {
 h4 {
   font-family: Prompt;
 }
-body {
+.background {
 background-image: url("cdn/background.png");
  background-color: #cccccc;
 }
