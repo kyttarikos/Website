@@ -13,8 +13,11 @@ h3 {
 h4 {
   font-family: Prompt;
 }
-body {
+.bg {
 background-image: url("https://wiseengine.netlify.app/cdn/background.png");
  background-color: #cccccc;
-  background-repeat: repeat-x;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+  overflow-x: hidden;
 }
